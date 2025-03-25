@@ -11,6 +11,8 @@ I'm experienced in various technologies including PHP, MySQL, Java, HTML, CSS, a
 
 Skills:  REACT / JS / HTML / CSS / C / C++ / JAVA / PHP / LINUX / PYTHON
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on Academic Projects 
 - 🌱 I’m currently learning Python, NodeJS, 
 - 👯 I’m looking to collaborate on GitHub 
@@ -19,7 +21,6 @@ Skills:  REACT / JS / HTML / CSS / C / C++ / JAVA / PHP / LINUX / PYTHON
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Listener
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omijr123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/omi.rahnan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/OmiRahmanJr1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://splendorous-fox-2992d1.netlify.app/#projects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](omirahman18)  
