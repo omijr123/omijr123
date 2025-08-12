@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Jablay Noor Rahman (Omi)
 #### A passionate web developer & software engineer from Bangladesh
 
-Hello! I'm Jablay Noor Rahman, a 3rd year Information and Communication Technology student at Bangladesh University of Professionals (BUP). I am a passionate developer with expertise in web development and software engineering. I enjoy creating responsive and user-friendly applications that solve real-world problems.
+Hello! I'm Jablay Noor Rahman, a 4th year Information and Communication Technology student at Bangladesh University of Professionals (BUP). I am a passionate developer with expertise in web development and software engineering. I enjoy creating responsive and user-friendly applications that solve real-world problems.
 
 I'm experienced in various technologies including PHP, MySQL, Java, HTML, CSS, and JavaScript. My focus is on building impactful projects that provide value and great user experiences.
 
