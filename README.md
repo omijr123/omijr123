@@ -87,10 +87,6 @@ With expertise across both frontend and backend development, I transform ideas i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omijr123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=omijr123&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </p>
 
