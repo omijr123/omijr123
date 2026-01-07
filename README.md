@@ -91,10 +91,6 @@ With expertise across both frontend and backend development, I transform ideas i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://api.vaunt.dev/v1/github/entities/omijr123/contributions?format=svg&private=true" alt="Contribution Graph" />
 </p>
 
