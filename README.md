@@ -1,4 +1,4 @@
-![A passionate web developer & software engineer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEL0696nX3_Bg/profile-displaybackgroundimage-shrink_350_1400/B56ZXM.7QcGsAY-/0/1742900806675?e=1757548800&v=beta&t=b-d74XtKoNjGi50Lz4eqQPOjflXWX2iAE-G4uPAdQv8)
+![A passionate web developer & software engineer from Bangladesh](https://i.postimg.cc/W1f6PSY8/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png)
 
 ### Hi there 👋, I'm Jablay Noor Rahman (Omi)
 #### 
