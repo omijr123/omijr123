@@ -1,7 +1,5 @@
 ![Header Banner](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
 
-![Header Banner](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
-
 <h1 align="center">Hi 👋, I'm Jablay Noor Rahman (Omi)</h1>
 <h3 align="center">Full-Stack Developer & AI Enthusiast | Bangladesh</h3>
 
@@ -9,28 +7,31 @@
   <img src="https://komarev.com/ghpvc/?username=omijr123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<br/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
 
 ## 👨‍💻 About Me
 
 Hello! I'm a 4th-year Information & Communication Engineering student at Bangladesh University of Professionals (BUP), passionate about crafting elegant solutions to complex problems through code. I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
 
-With expertise across both frontend and backend development, I transform ideas into functional, user-centric digital experiences. My toolkit spans from PHP, JavaScript, and Python to modern frameworks like React, Node.js, and TensorFlow.
+With expertise across both frontend and backend development, I transform ideas into functional, user-centric digital experiences. My toolkit spans from PHP, JavaScript, and Python to modern frameworks like React, Node.js, and TensorFlow. I thrive at the intersection of creativity and logic—whether designing intuitive interfaces or architecting robust backend systems.
 
 **Skills:** React • JavaScript • HTML • CSS • C • C++ • Java • PHP • Python • Linux
 
 - 🔭 Currently working on **University Academic Projects**
 - 🌱 Learning **Python, AI, Machine Learning, IoT, Deep Learning, NLP, LLM, Node.js**
 - 👯 Looking to collaborate on **Open Source AI/ML Projects & Full-Stack Applications**
-- 💬 Ask me about **C/C++, Java, PHP, JavaScript, Python, DS, Algorithms, Database Design**
+- 💬 Ask me about **C/C++, Java, PHP, JavaScript, Python, Data Structures, Algorithms, Database Design, Web & Android Development**
 - 📫 Reach me at **omirahman40@gmail.com**
 - 🌐 Portfolio: [jablaynoorrahman.netlify.app](https://jablaynoorrahman.netlify.app)
+- 📄 LinkedIn: [Jablay Noor Rahman](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Problem Solver | Tech Community Enthusiast | Listener**
 
-<br clear="both"/>
+<br clear="right"/>
 
 ## 🛠️ Languages and Tools
 
@@ -90,27 +91,11 @@ With expertise across both frontend and backend development, I transform ideas i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omijr123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=omijr123&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omijr123&theme=transparent&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/omijr123/contributions?format=svg&private=true" alt="Contribution Graph" width="100%" />
+  <img src="https://api.vaunt.dev/v1/github/entities/omijr123/contributions?format=svg&private=true" alt="Contribution Graph" />
 </p>
 
 ## 💖 Support My Work
@@ -119,12 +104,6 @@ With expertise across both frontend and backend development, I transform ideas i
   <a href="https://www.buymeacoffee.com/omirahman4f">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/omijr123">omijr123</a> - Let's build something amazing together!</i>
 </p>
 
 ---
