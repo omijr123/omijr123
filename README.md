@@ -1,117 +1,107 @@
-<!-- Banner -->
+# Hi there 👋, I'm Jablay Noor Rahman (Omi)
+
 ![A passionate web developer & software engineer from Bangladesh](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
 
-<h1 align="center">Hi 👋, I'm Jablay Noor Rahman (Omi)</h1>
+## 🚀 Full-Stack Developer & AI Enthusiast from Bangladesh
 
-<h3 align="center">
-Full-Stack Developer & AI Enthusiast from Bangladesh 🇧🇩
-</h3>
+I'm a 4th-year **Information & Communication Technology** student at **Bangladesh University of Professionals (BUP)**. Passionate about crafting elegant solutions to complex problems through code, I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
 
-<p align="center">
-4th-Year Information & Communication Technology Student at <b>Bangladesh University of Professionals (BUP)</b> <br/>
-Passionate about building scalable web applications and AI-powered solutions that create real-world impact.
-</p>
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/omijr123?label=Follow&style=social)](https://github.com/omijr123)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OmiRahmanJr1?style=social)](https://twitter.com/OmiRahmanJr1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
+![Profile Views](https://komarev.com/ghpvc/?username=omijr123&color=blueviolet)
 
----
+</div>
 
-### 👨‍💻 About Me
-- 🎓 **ICT Undergraduate (4th Year)** at BUP  
-- 💡 Strong interest in **Full-Stack Development, AI & Machine Learning**  
-- 🧠 Enjoy solving problems through **clean architecture & efficient algorithms**  
-- 🚀 Focused on building **user-centric, performance-driven applications**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+## 🔥 What I Do
 
-### 🔭 What I’m Working On
-- University & academic software projects  
-- Full-stack web applications  
-- AI / ML integration into real-world systems  
+- 💻 **Full-Stack Development**: Building responsive web applications from frontend to backend
+- 🤖 **AI/ML Enthusiast**: Exploring machine learning, deep learning, and NLP applications
+- 📱 **Mobile Development**: Creating cross-platform mobile applications
+- 🎨 **UI/UX Design**: Crafting intuitive and beautiful user interfaces
+- 🔧 **Problem Solving**: Competitive programming and algorithm optimization
 
-### 🌱 Currently Learning
-- **Python, Node.js**
-- **Machine Learning, Deep Learning, NLP, LLMs**
-- **IoT & AI-driven systems**
+## 🛠️ Tech Stack
 
----
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤝 Open To
-- GitHub collaborations  
-- Open-source AI/ML projects  
-- Full-stack web & software engineering projects  
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 💬 Ask Me About
-**C, C++, Java, PHP, JavaScript, Python, Data Structures, Algorithms, Databases, Web & Android Development**
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
+## 📈 GitHub Stats
 
-### 📫 Contact Me
-- 📧 **Email:** omirahman40@gmail.com  
-- 🌐 **Portfolio:** https://splendorous-fox-2992d1.netlify.app  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/
+<div align="center">
 
----
+![Omi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://github.com/omijr123"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35"/></a>
-<a href="https://linkedin.com/in/jablay-noor-rahman-a568bb228/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35"/></a>
-<a href="https://twitter.com/omirahmanjr1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="35"/></a>
-<a href="https://www.facebook.com/omi.rahnan"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="35"/></a>
-<a href="https://codeforces.com/profile/omirahman18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="35"/></a>
-<a href="https://www.leetcode.com/jablay27"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="35"/></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=omijr123&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-## 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-</p>
+</div>
 
----
+## 🏆 GitHub Trophies
 
-## 🏆 GitHub Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omijr123&theme=onedark"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=omijr123&theme=radical&row=2&column=4&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+## 📫 Let's Connect!
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&count_private=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123&layout=compact"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://splendorous-fox-2992d1.netlify.app/#projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmiRahmanJr1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omi.rahnan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omirahman40@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/omirahman18)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=omijr123"/>
-</p>
+</div>
+
+## 📌 Currently
+
+- 🔭 **Working on**: University Academic Projects & Open Source Contributions
+- 🌱 **Learning**: Advanced Python, AI/ML, IoT, Deep Learning, NLP
+- 🤝 **Looking to collaborate on**: Innovative Web & AI Projects
+- 💬 **Ask me about**: Web Development, Algorithms, Database Design
+- ⚡ **Fun fact**: I'm a great listener and problem solver!
+
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🎯 Featured Projects
+
+<!-- Add your featured projects here -->
+
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+
+</div>
 
 ---
-
-### ☕ Support My Work
-<a href="https://www.buymeacoffee.com/omirahman4f">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-</a>
-
----
-
-⭐ *Always open to learning, collaboration, and building impactful technology.*
+⭐️ From [Omi](https://github.com/omijr123)
