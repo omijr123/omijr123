@@ -9,6 +9,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
+
+
 ## 👨‍💻 About Me
 
 Hello! I'm a 4th-year Information & Communication Engineering student at Bangladesh University of Professionals (BUP), passionate about crafting elegant solutions to complex problems through code. I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
