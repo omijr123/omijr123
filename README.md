@@ -78,14 +78,7 @@ Skills:  REACT / JS / HTML / CSS / C / C++ / JAVA / PHP / LINUX / PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&count_private=true)  
-
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/omijr123/contributions?format=svg&private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=omijr123)  
 
 ---
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/omijr123">omijr123</a> - Let's build something amazing together!</i>
-</p>
