@@ -1,5 +1,6 @@
 ![Header Banner](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
 
+
 <h1 align="center">Hi 👋, I'm Jablay Noor Rahman (Omi)</h1>
 <h3 align="center">Full-Stack Developer & AI Enthusiast | Bangladesh</h3>
 
@@ -14,6 +15,10 @@
 Hello! I'm a 4th-year Information & Communication Engineering student at Bangladesh University of Professionals (BUP), passionate about crafting elegant solutions to complex problems through code. I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
 
 With expertise across both frontend and backend development, I transform ideas into functional, user-centric digital experiences. My toolkit spans from PHP, JavaScript, and Python to modern frameworks like React, Node.js, and TensorFlow. I thrive at the intersection of creativity and logic—whether designing intuitive interfaces or architecting robust backend systems.
+
+I'm experienced in various technologies including PHP, MySQL, Java, HTML, CSS, and JavaScript. My focus is on building impactful projects that provide value and great user experiences.
+
+Skills:  REACT / JS / HTML / CSS / C / C++ / JAVA / PHP / LINUX / PYTHON
 
 - 🔭 Currently working on **University Academic Projects**
 - 🌱 Learning **Python, AI, Machine Learning, IoT, Deep Learning, NLP, LLM**
@@ -65,23 +70,19 @@ With expertise across both frontend and backend development, I transform ideas i
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=omijr123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omijr123&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omijr123&theme=radical" alt="GitHub Streak" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=omijr123)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omijr123&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&count_private=true)  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omijr123&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/omijr123/contributions?format=svg&private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=omijr123)  
 
 ---
 
