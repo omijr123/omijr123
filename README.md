@@ -1,4 +1,4 @@
-Here’s a polished and professional README for your GitHub profile, updated with your CV details:
+
 
 ![A passionate full-stack developer & AI enthusiast from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEL0696nX3_Bg/profile-displaybackgroundimage-shrink_350_1400/B56ZXM.7QcGsAY-/0/1742900806675?e=1757548800&v=beta&t=b-d74XtKoNjGi50Lz4eqQPOjflXWX2iAE-G4uPAdQv8)
 
