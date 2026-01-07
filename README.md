@@ -1,107 +1,90 @@
-# Hi there 👋, I'm Jablay Noor Rahman (Omi)
+![Header Banner](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
 
-![A passionate web developer & software engineer from Bangladesh](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
+<h1 align="center">Hi 👋, I'm Jablay Noor Rahman (Omi)</h1>
+<h3 align="center">Full-Stack Developer & AI Enthusiast | Bangladesh</h3>
 
-## 🚀 Full-Stack Developer & AI Enthusiast from Bangladesh
-
-I'm a 4th-year **Information & Communication Technology** student at **Bangladesh University of Professionals (BUP)**. Passionate about crafting elegant solutions to complex problems through code, I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
-
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/omijr123?label=Follow&style=social)](https://github.com/omijr123)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OmiRahmanJr1?style=social)](https://twitter.com/OmiRahmanJr1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
-![Profile Views](https://komarev.com/ghpvc/?username=omijr123&color=blueviolet)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omijr123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🔥 What I Do
+## 👨‍💻 About Me
 
-- 💻 **Full-Stack Development**: Building responsive web applications from frontend to backend
-- 🤖 **AI/ML Enthusiast**: Exploring machine learning, deep learning, and NLP applications
-- 📱 **Mobile Development**: Creating cross-platform mobile applications
-- 🎨 **UI/UX Design**: Crafting intuitive and beautiful user interfaces
-- 🔧 **Problem Solving**: Competitive programming and algorithm optimization
+Hello! I'm a 4th-year Information & Communication Engineering student at Bangladesh University of Professionals (BUP), passionate about crafting elegant solutions to complex problems through code. I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
 
-## 🛠️ Tech Stack
+With expertise across both frontend and backend development, I transform ideas into functional, user-centric digital experiences. My toolkit spans from PHP, JavaScript, and Python to modern frameworks like React, Node.js, and TensorFlow. I thrive at the intersection of creativity and logic—whether designing intuitive interfaces or architecting robust backend systems.
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🔭 Currently working on **University Academic Projects**
+- 🌱 Learning **Python, AI, Machine Learning, IoT, Deep Learning, NLP, LLM**
+- 👯 Looking to collaborate on **Open Source AI/ML Projects & Full-Stack Applications**
+- 💬 Ask me about **C/C++, Java, PHP, JavaScript, Python, Data Structures, Algorithms, Database Design**
+- 📫 Reach me at **omirahman40@gmail.com**
+- 🌐 Portfolio: [jablaynoorrahman.netlify.app](https://jablaynoorrahman.netlify.app)
+- 📄 LinkedIn: [Jablay Noor Rahman](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
+- ⚡ Fun fact: **Problem Solver | Tech Community Enthusiast | Listener**
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🛠️ Languages and Tools
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+## 🌐 Connect with Me
 
-## 📈 GitHub Stats
+<p align="left">
+<a href="https://linkedin.com/in/jablay-noor-rahman-a568bb228" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/omirahmanjr1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://github.com/omijr123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.facebook.com/omi.rahnan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/32157845" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<a href="https://kaggle.com/jablaynoorrahman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://medium.com/@omirahman40" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jablay27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omirahman40" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/omirahman18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+</p>
 
-<div align="center">
+## 📊 GitHub Stats
 
-![Omi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&theme=radical&count_private=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omijr123&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omijr123&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omijr123&theme=radical" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omijr123&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omijr123&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omijr123&theme=radical&row=2&column=4&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://splendorous-fox-2992d1.netlify.app/#projects)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmiRahmanJr1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omi.rahnan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omirahman40@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/omirahman18)
-
-</div>
-
-## 📌 Currently
-
-- 🔭 **Working on**: University Academic Projects & Open Source Contributions
-- 🌱 **Learning**: Advanced Python, AI/ML, IoT, Deep Learning, NLP
-- 🤝 **Looking to collaborate on**: Innovative Web & AI Projects
-- 💬 **Ask me about**: Web Development, Algorithms, Database Design
-- ⚡ **Fun fact**: I'm a great listener and problem solver!
-
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🎯 Featured Projects
-
-<!-- Add your featured projects here -->
-
-<div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omijr123&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
-⭐️ From [Omi](https://github.com/omijr123)
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/omijr123">omijr123</a> - Let's build something amazing together!</i>
+</p>
