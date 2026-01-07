@@ -94,12 +94,6 @@ With expertise across both frontend and backend development, I transform ideas i
   <img src="https://api.vaunt.dev/v1/github/entities/omijr123/contributions?format=svg&private=true" alt="Contribution Graph" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omijr123&theme=transparent&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ## 💖 Support My Work
 
 <p align="left">
