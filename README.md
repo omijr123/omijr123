@@ -26,7 +26,6 @@ With expertise across both frontend and backend development, I transform ideas i
 - 👯 Looking to collaborate on **Open Source AI/ML Projects & Full-Stack Applications**
 - 💬 Ask me about **C/C++, Java, PHP, JavaScript, Python, Data Structures, Algorithms, Database Design, Web & Android Development**
 - 📫 Reach me at **omirahman40@gmail.com**
-- 🌐 Portfolio: [jablaynoorrahman.netlify.app](https://jablaynoorrahman.netlify.app)
 - 📄 LinkedIn: [Jablay Noor Rahman](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Problem Solver | Tech Community Enthusiast | Listener**
