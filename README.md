@@ -1,4 +1,4 @@
-![Header Banner](https://i.postimg.cc/65q8Nws3/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
+![Header Banner](https://i.postimg.cc/zXC7CrFg/banner-v2.png)
 
 <h1 align="center">Hi 👋, I'm Jablay Noor Rahman (Omi)</h1>
 <h3 align="center">Software Developer & AI/ML Enthusiast </h3>
