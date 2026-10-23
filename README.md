@@ -10,11 +10,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-
-
-
-## 👋 Hi, I'm Jablay Noor Rahman
-
 Information & Communication Engineering graduate from **Bangladesh University of Professionals (BUP)**. I build full-stack web apps and AI-powered systems, and I enjoy connecting software with real business needs.
 
 **🛠️ Skills:** React • Node.js • JavaScript • Python • PHP • Java • C/C++ • SQL • TensorFlow • Linux
