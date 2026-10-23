@@ -13,21 +13,18 @@
 
 
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Jablay Noor Rahman
 
-Hello! I'm a 4th-year Information & Communication Engineering student at Bangladesh University of Professionals (BUP), passionate about crafting elegant solutions to complex problems through code. I specialize in building scalable web applications and AI-powered systems that bridge technology with real-world impact.
+Information & Communication Engineering graduate from **Bangladesh University of Professionals (BUP)**. I build full-stack web apps and AI-powered systems, and I enjoy connecting software with real business needs.
 
-With expertise across both frontend and backend development, I transform ideas into functional, user-centric digital experiences. My toolkit spans from PHP, JavaScript, and Python to modern frameworks like React, Node.js, and TensorFlow. I thrive at the intersection of creativity and logic—whether designing intuitive interfaces or architecting robust backend systems.
+**🛠️ Skills:** React • Node.js • JavaScript • Python • PHP • Java • C/C++ • SQL • TensorFlow • Linux
 
-**Skills:** React • JavaScript • HTML • CSS • C • C++ • Java • PHP • Python • Linux
-
-- 🔭 Currently working on **University Academic Projects**
-- 🌱 Learning **Python, AI, Machine Learning, IoT, Deep Learning, NLP, LLM, Node.js**
-- 👯 Looking to collaborate on **Open Source AI/ML Projects & Full-Stack Applications**
-- 💬 Ask me about **C/C++, Java, PHP, JavaScript, Python, Data Structures, Algorithms, Database Design, Web & Android Development**
-- 📫 Reach me at **omirahman40@gmail.com**
-- 📄 LinkedIn: [Jablay Noor Rahman](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/)
-- 😄 Pronouns: **He/Him**
+- 🔭 Working on **NLP & adversarial ML research** (Bengali hate speech detection, accepted at IEEE SmartNets 2026)
+- 🌱 Learning **Deep Learning, LLMs, Cybersecurity**
+- 👯 Open to collaborating on **open-source AI/ML & full-stack projects**
+- 💬 Ask me about **Web Development, Data Structures, Algorithms, Databases**
+- 📫 Reach me: **omirahman40@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jablay-noor-rahman-a568bb228/) • [Portfolio](https://jablaynoorrahman.netlify.app)
 - ⚡ Fun fact: **Problem Solver | Tech Community Enthusiast | Listener**
 
 <br clear="right"/>
